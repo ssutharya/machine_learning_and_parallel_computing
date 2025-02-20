@@ -5,6 +5,7 @@ Question 1: Data Preprocessing (Medium)
     c. Apply one-hot encoding to the target labels.
     d. Split the data into training, validation, and test sets.
     e. Dataset: https://github.com/iamavieira/handwritten-digits-mnist
+    
 Question 2: Classification (Hard)
     a. Build a logistic regression model to classify handwritten digits from the MNIST
     dataset.
